@@ -19,6 +19,7 @@
     "@types/node": "^20.12.2",
     "express": "^4.18.2",
     "http": "^0.0.1-security",
+    "tsx": "^4.15.3",
     "winbox": "^0.2.82",
     "wisp-server-node": "^1.0.4"
   }
