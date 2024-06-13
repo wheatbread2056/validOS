@@ -4,11 +4,9 @@
 
 ValidOS (or validOS) is a webOS that's built off of anshnk/nullOS. nullOS was dropped since ansh had other projects to work on, but I suppose I'll continue it for fun :)
 
-Instances:
+this repo is continued from lolzthedev/validOS cause i couldnt figure out how to make a pr ☠
 
--   https://os.zirc.lol/
-
-(Wanna get your instance added? Make a PR with your link!)
+self-hosting instructions should still work
 
 ## Self-Hosting
 
